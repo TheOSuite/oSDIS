@@ -38,7 +38,7 @@ This script is a Python-based tool with a graphical user interface (GUI) built u
 2.  **Run the Script:** Open your terminal or command prompt, navigate to the directory where you saved the script, and run:
 
     ```bash
-    python sdis.py
+    python oSDIS.py
     ```
 3.  **Enter Target URL:** In the GUI, enter the full URL of the website you want to scan (e.g., `https://example.com`).
 4.  **Configure Options (Optional):**
