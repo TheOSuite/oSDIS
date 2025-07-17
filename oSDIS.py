@@ -13,7 +13,7 @@ import csv
 import hashlib
 
 # Your User-Agent
-DEFAULT_USER_AGENT = "SoftwareAndDataIntegrityScanner/1.3 (https://github.com/yourusername/yourtool)"
+DEFAULT_USER_AGENT = "SoftwareAndDataIntegrityScanner/1.3"
 
 class SecurityScannerGUI:
     def __init__(self, master):
