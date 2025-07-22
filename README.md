@@ -1,5 +1,8 @@
 # Software and Data Integrity Scanner
 
+![GitHub License](https://img.shields.io/github/license/TheOSuite/oSDIS)
+![Python Version](https://img.shields.io/badge/python-3.13-blue)
+
 This script is a Python-based tool with a graphical user interface (GUI) built using Tkinter. It's designed to help identify potential Software and Data Integrity Failures (aligned with OWASP Top 10 2021 A08) by performing a one-time audit of a target website.
 
 **Disclaimer:** This tool is intended for educational and auditing purposes only. **Only scan websites that you have explicit permission to test.** Unauthorized scanning can be illegal and unethical. This tool identifies *potential* indicators and does not attempt to exploit vulnerabilities.
